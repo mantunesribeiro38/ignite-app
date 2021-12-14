@@ -4,9 +4,9 @@ Trata-se de um aplicativo bem simples, que consome dados dados da api <a href="h
 **Clone o repositório**
 
 ```
-git clone https://git@github.com:mantunesribeiro38/pomodoro-app.git
+git clone https://git@github.com:mantunesribeiro38/ignite-app.git
 
-cd pomodoro-app
+cd ignite-app
 ```
 **Instalando dependências**
 
